@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sai-satyam.github.io/csb-h6008b/static/css/main.c34937ff.chunk.css",
+    "main.js": "https://sai-satyam.github.io/csb-h6008b/static/js/main.1c73b632.chunk.js",
+    "main.js.map": "https://sai-satyam.github.io/csb-h6008b/static/js/main.1c73b632.chunk.js.map",
+    "runtime-main.js": "https://sai-satyam.github.io/csb-h6008b/static/js/runtime-main.b77ad006.js",
+    "runtime-main.js.map": "https://sai-satyam.github.io/csb-h6008b/static/js/runtime-main.b77ad006.js.map",
+    "static/js/2.d96fa6f0.chunk.js": "https://sai-satyam.github.io/csb-h6008b/static/js/2.d96fa6f0.chunk.js",
+    "static/js/2.d96fa6f0.chunk.js.map": "https://sai-satyam.github.io/csb-h6008b/static/js/2.d96fa6f0.chunk.js.map",
+    "index.html": "https://sai-satyam.github.io/csb-h6008b/index.html",
+    "static/css/main.c34937ff.chunk.css.map": "https://sai-satyam.github.io/csb-h6008b/static/css/main.c34937ff.chunk.css.map",
+    "static/js/2.d96fa6f0.chunk.js.LICENSE.txt": "https://sai-satyam.github.io/csb-h6008b/static/js/2.d96fa6f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b77ad006.js",
+    "static/js/2.d96fa6f0.chunk.js",
+    "static/css/main.c34937ff.chunk.css",
+    "static/js/main.1c73b632.chunk.js"
+  ]
+}
